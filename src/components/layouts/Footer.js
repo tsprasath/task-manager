@@ -20,9 +20,9 @@ function Footer() {
       }}
     >
       &copy; Copyright <span className="text-warning">{year}</span> by
-      <Link to="https://github.com/Sidodus/" className="text-light">
+      <Link to="https://github.com/tsprasath/" className="text-light">
         {" "}
-        Saheed Odulaja{" "}
+        Prasath Sivasubramaniyan{" "}
       </Link>
     </footer>
   );

@@ -30,7 +30,7 @@ function About() {
         Developed With React.js &amp; Redux Context Manager.
         <br />
         <br />
-        <Link to="https://github.com/Sidodus">https://github.com/Sidodus</Link>
+        <Link to="https://github.com/tsprasath">https://github.com/tsprasath</Link>
       </h6>
       <hr />
     </div>
