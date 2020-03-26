@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/task-manager/static/css/main.fc24368d.chunk.css",
-    "main.js": "/task-manager/static/js/main.f07085cc.chunk.js",
-    "main.js.map": "/task-manager/static/js/main.f07085cc.chunk.js.map",
+    "main.js": "/task-manager/static/js/main.47e4299b.chunk.js",
+    "main.js.map": "/task-manager/static/js/main.47e4299b.chunk.js.map",
     "runtime-main.js": "/task-manager/static/js/runtime-main.8a69588d.js",
     "runtime-main.js.map": "/task-manager/static/js/runtime-main.8a69588d.js.map",
     "static/css/2.a2366451.chunk.css": "/task-manager/static/css/2.a2366451.chunk.css",
     "static/js/2.dfb3dc70.chunk.js": "/task-manager/static/js/2.dfb3dc70.chunk.js",
     "static/js/2.dfb3dc70.chunk.js.map": "/task-manager/static/js/2.dfb3dc70.chunk.js.map",
     "index.html": "/task-manager/index.html",
-    "precache-manifest.e71b7317b8bad052f487ed630d03b185.js": "/task-manager/precache-manifest.e71b7317b8bad052f487ed630d03b185.js",
+    "precache-manifest.7eeb9d1cd82ac16f88ca4d3e574b5e0d.js": "/task-manager/precache-manifest.7eeb9d1cd82ac16f88ca4d3e574b5e0d.js",
     "service-worker.js": "/task-manager/service-worker.js",
     "static/css/2.a2366451.chunk.css.map": "/task-manager/static/css/2.a2366451.chunk.css.map",
     "static/css/main.fc24368d.chunk.css.map": "/task-manager/static/css/main.fc24368d.chunk.css.map",
     "static/js/2.dfb3dc70.chunk.js.LICENSE.txt": "/task-manager/static/js/2.dfb3dc70.chunk.js.LICENSE.txt",
-    "static/media/SidoByMe.png": "/task-manager/static/media/SidoByMe.ea269fc5.png",
     "static/media/all.min.css": "/task-manager/static/media/fa-solid-900.e245d7d6.woff2"
   },
   "entrypoints": [
@@ -22,6 +21,6 @@
     "static/css/2.a2366451.chunk.css",
     "static/js/2.dfb3dc70.chunk.js",
     "static/css/main.fc24368d.chunk.css",
-    "static/js/main.f07085cc.chunk.js"
+    "static/js/main.47e4299b.chunk.js"
   ]
 }
